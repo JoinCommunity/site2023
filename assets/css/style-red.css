@@ -6699,7 +6699,7 @@ button:hover:after,
 /* 2.2 BANNER SECTION
 ---------------------------------------------------------------------*/
 .lgx-banner {
-  background: url('http://placehold.it/1920x912') top center no-repeat;
+  background: url('../using/1920x912.png') top center no-repeat;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -6793,7 +6793,7 @@ button:hover:after,
   background-size: cover;
 }
 .lgx-banner-comingsoon {
-  background: url('http://placehold.it/1920x912') center center no-repeat;
+  background: url('../using/1920x912.png') center center no-repeat;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;

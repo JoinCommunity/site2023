@@ -40,22 +40,22 @@
                 "circle_bg_color": "#ddd",
                 "time": {
                     "Days": {
-                        "text": "Days",
+                        "text": "Dias",
                         "color": "#ec398b",
                         "show": true
                     },
                     "Hours": {
-                        "text": "Hours",
+                        "text": "Horas",
                         "color": "#fac400",
                         "show": true
                     },
                     "Minutes": {
-                        "text": "Minutes",
+                        "text": "Minutos",
                         "color": "#00acee",
                         "show": true
                     },
                     "Seconds": {
-                        "text": "Seconds",
+                        "text": "Segundos",
                         "color": "#483fa1",
                         "show": true
                     }
@@ -138,10 +138,10 @@
             $('#lgx-countdown').countdown(dataTime, function(event) {
                 var $this = $(this).html(event.strftime(''
                     /*+ '<span class="lgx-weecks">%w <i> weeks </i></span> '*/
-                    + '<span class="lgx-days">%D <i> Days </i></span> '
-                    + '<span class="lgx-hr">%H <i> Hour </i></span> '
-                    + '<span class="lgx-min">%M <i> Minu </i></span> '
-                    + '<span class="lgx-sec">%S <i> Seco </i></span>'
+                    + '<span class="lgx-days">%D <i> Dias </i></span> '
+                    + '<span class="lgx-hr">%H <i> Horas </i></span> '
+                    + '<span class="lgx-min">%M <i> Min. </i></span> '
+                    + '<span class="lgx-sec">%S <i> Seg. </i></span>'
                 ));
             });
         }
