@@ -8294,6 +8294,17 @@ lgx-zoomInUp
   font-weight: 400;
   opacity: 1;
 }
+.lgx-about-content-area .lgx-heading .subheading2 {
+  font-family: 'Oswald', sans-serif;
+  color:#000000;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  font-size: 2rem;
+  line-height: 3rem;
+  font-weight: 400;
+  opacity: 1;
+}
 .lgx-about-service {
   margin-top: 4.2rem;
   display: flex;
