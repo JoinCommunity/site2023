@@ -356,7 +356,7 @@
          ========================================================================== */
         if($('#lgx-typed-string').length){
             $('#lgx-typed-string').typed({
-                strings: ["10ª EDIÇÃO", "COMUNIDADES","Aprendizado","Conhecimento","Networking","Diversão","Inovação","Tecnologia","Empreendedorismo","Negócios","Futuro"],
+                strings: ["10 anos", "COMUNIDADES","Aprendizado","Conhecimento","Networking","Diversão","Inovação","Tecnologia","Empreendedorismo","Negócios","Futuro"],
                 // typing speed
                 typeSpeed: 10,
                 // time before typing starts
